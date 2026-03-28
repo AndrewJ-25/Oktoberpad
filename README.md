@@ -1,4 +1,5 @@
 # Oktoberpad
+![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/6890eaa5336cb1ef0c7b4e39f396ed2ecb21081a/banner.png)
 Oktoberpad is my macropad with 9 switches, a rotary encoder and an OLED display, designed following the guide published for Hackclub Blueprint
 
 
@@ -17,8 +18,10 @@ Oktoberpad is my macropad with 9 switches, a rotary encoder and an OLED display,
   pcb designed in Kicad (this was quite a journey!)
 
   schematic:
+  ![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/6890eaa5336cb1ef0c7b4e39f396ed2ecb21081a/banner.png)
 
   pcb:
+  ![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/6890eaa5336cb1ef0c7b4e39f396ed2ecb21081a/banner.png)
 
 ## Firmware
   Oktoberpad uses QMK firmware
