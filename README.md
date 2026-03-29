@@ -2,6 +2,9 @@
 ![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/6890eaa5336cb1ef0c7b4e39f396ed2ecb21081a/banner.png)
 Oktoberpad is my macropad with 9 switches, a rotary encoder and an OLED display, designed following the guide published for Hackclub Blueprint
 
+## TODO:
+  - code does not compile. have already identified several bugs
+
 
 ## Features:
   - 9 key layered keyboard
