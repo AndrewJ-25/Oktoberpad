@@ -18,7 +18,7 @@ Oktoberpad is my macropad with 9 switches, a rotary encoder and an OLED display,
   - PCB held to case using 4 M3 bolts and heatset inserts
 
 ## PCB:
-  pcb designed in Kicad (this was quite a journey!)
+  pcb designed in Kicad
 
   schematic:
   ![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/edae228ee6b608626afca5e1cf36875519283d24/schematic.png)
@@ -27,7 +27,7 @@ Oktoberpad is my macropad with 9 switches, a rotary encoder and an OLED display,
   ![image alt](https://github.com/AndrewJ-25/Oktoberpad/blob/edae228ee6b608626afca5e1cf36875519283d24/pcb.png)
 
 ## Firmware
-  Oktoberpad uses QMK firmware (again, writing this was quite the journey!)
+  Oktoberpad uses QMK firmware
 
   - The rotary encoder adjusts volume, or cycles between keyboard layers when pressed and turned
   - OLED display indicates current layer
